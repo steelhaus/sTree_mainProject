@@ -1,0 +1,7 @@
+<xml plist='ololo-azaza'>
+	<NSDictionary name='resources'>
+		<String name='a'>aaa</String>
+		<String name='b'>bbb</String>
+		<String name='c'>ccc</String>
+	</NSDictionary>
+</xml>
