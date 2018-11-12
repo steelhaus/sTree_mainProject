@@ -3,5 +3,6 @@
 		<String name='a'>aaa</String>
 		<String name='b'>bbb</String>
 		<String name='c'>ccc</String>
+		<String name'superString'>FOOBAR!</String>
 	</NSDictionary>
 </xml>
